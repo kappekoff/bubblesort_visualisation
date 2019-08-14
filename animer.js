@@ -2,7 +2,7 @@ var storste;
 var tilfeldigeTall = [];
 var xCanvasSize = 1500;
 var yCanvasSize = 600;
-var antallSoyler = 10;
+var antallSoyler = 100;
 var soylebredde = xCanvasSize / antallSoyler;
 var global_i = 0;
 var global_j = global_i+1;
